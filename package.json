@@ -44,7 +44,7 @@
         "url": "git://github.com/gotwarlost/istanbul.git"
     },
     "dependencies": {
-        "esprima": "https+git://github.com/ariya/esprima.git#harmony",
+        "esprima": "ariya/esprima#harmony",
         "escodegen": "1.2.x",
         "handlebars": "1.3.x",
         "mkdirp": "0.3.x",
